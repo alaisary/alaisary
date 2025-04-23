@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Khalid Al Harthi 👋</h1>
+<p align="center">💻 Red Teamer | 🛡️ Offensive Security </p>
 
-<!--
-**alaisary/alaisary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Specializing in Red Teaming, Web App Pentesting, Active Directory, Phishing & Social Engineering
+
+---
+
+### 📌 Featured Projects
+
+- [🔧 **DeviceCodePhishing Fork**](https://github.com/alaisary/DCP): Advanced Phishing Tool
+- [🕷️ **fscan-en**](https://github.com/alaisary/fscan-en): Translated version of fscan
+- [🧙‍♂️ **BITB-via-iframe**](https://github.com/alaisary/BITB-Iframe): A realistic Browser-in-the-Browser (BITB)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaisary&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaisary&layout=compact&theme=tokyonight" />
+</p>
+
+
