@@ -10,7 +10,7 @@
 ---
 
 ### 📌 Featured Projects
-
+- [ **Quran Tracker**](https://github.com/alaisary/QuranTracker): A comprehensive digital notebook for Quran teachers and schools to track student recitations, monitor progress, and generate detailed performance reports
 - [🔧 **DeviceCodePhishing Fork**](https://github.com/alaisary/DCP): Advanced Phishing Tool
 - [🕷️ **fscan-en**](https://github.com/alaisary/fscan-en): Translated version of fscan
 - [🧙‍♂️ **BITB-via-iframe**](https://github.com/alaisary/BITB-Iframe): A realistic Browser-in-the-Browser (BITB)
