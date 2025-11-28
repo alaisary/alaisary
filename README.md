@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🔍 Specializing in Red Teaming, Web App Pentesting, Active Directory, Phishing & Social Engineering
+- 🔍 Specializing in Cyber Security
 
 ---
 
